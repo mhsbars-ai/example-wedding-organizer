@@ -1,0 +1,6 @@
+{
+  "name": "Wedding Organizer",
+  "description": "Website Wedding Organizer elegan dengan galeri foto, testimoni klien, katalog paket acara, kalkulator estimasi, dan formulir pemesanan paket.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
